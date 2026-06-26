@@ -1,0 +1,4 @@
+node_modules/
+.env
+speakit.db
+.DS_Store

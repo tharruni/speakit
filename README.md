@@ -52,15 +52,14 @@ npm install
 cp .env.example .env
 ```
 
-Open `.env` and add your real Claude API key:
+Open `.env` and add your real Gemini API key:
 
 ```
 PORT=3001
 JWT_SECRET=speakit_secret_2026_change_this
-CLAUDE_API_KEY=sk-ant-xxxxxxxxxxxxxxxx
+Gemini_API_KEY=your_claude_api_key_here
 ```
 
-Get your key at **console.anthropic.com** → API Keys.
 
 Run the backend:
 

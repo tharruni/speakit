@@ -13,7 +13,7 @@ message history, and mood insights.
 - **Backend:** Node.js, Express
 - **Database:** SQLite
 - **Auth:** JWT + bcryptjs
-- **AI:** Claude API (Anthropic)
+- **AI:** Gemini API
 
 ## Folder Structure
 
